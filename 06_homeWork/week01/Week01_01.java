@@ -7,12 +7,12 @@ import java.util.Arrays;
 public class Week01_01 {
     public static void main(String[] args) {
         //problem1
-//        System.out.println(" problem 1 ");
-//        whichyear();
+       System.out.println(" problem 1 ");
+       whichyear();
 
         //problem2
         System.out.println(" problem 2 ");
-//        prefectNum();
+       prefectNum();
 
         //problem3
         System.out.println(" problem 3 ");
